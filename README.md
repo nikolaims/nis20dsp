@@ -12,3 +12,6 @@
 #### Контрольная работа: дедлайн - четверг 22.10.20 23:59
 - Полезные определения и формулы: [pdf](https://drive.google.com/file/d/1814yboy9wVoAY3ai5RC8OhBnZRjkwj5f/view?usp=sharing)
 - **Задания и инструкция**: [pdf](https://drive.google.com/file/d/1E8M_Vdu092K67rkh8dYqexBBIUPniC8r/view?usp=sharing)
+### Часть 2. Практические аспекты обработки сигналов
+5. 27.10.20 DSP in Python: [notebook](https://github.com/nikolaims/nis20dsp/blob/master/lectures/lecture6.ipynb).
+5. 3.11.20 Разбор бенчмарка для программного проекта: [notebook](https://github.com/nikolaims/nis20dsp/blob/master/lectures/lecture7.ipynb). Баесовская фильтрация, фильтр Калмана: [notebook](https://github.com/nikolaims/nis20dsp/blob/master/lectures/lecture7-2.ipynb)
