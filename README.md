@@ -15,3 +15,7 @@
 ### Часть 2. Практические аспекты обработки сигналов
 5. 27.10.20 DSP in Python: [notebook](https://github.com/nikolaims/nis20dsp/blob/master/lectures/lecture6.ipynb).
 5. 3.11.20 Разбор бенчмарка для программного проекта: [notebook](https://github.com/nikolaims/nis20dsp/blob/master/lectures/lecture7.ipynb). Баесовская фильтрация, фильтр Калмана: [notebook](https://github.com/nikolaims/nis20dsp/blob/master/lectures/lecture7-2.ipynb)
+
+#### Программный проект: дедлайн - четверг 26.11.20 23:59
+ - Инструкция: [markdown](https://github.com/nikolaims/nis20dsp/blob/master/project_info.md)
+ - Проверяющий бот: [@nis20dsp_bot](https://t.me/nis20dsp_bot)
